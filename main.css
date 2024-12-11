@@ -2324,7 +2324,7 @@ input[type=search] {
 }
 @media only screen and (max-width : 768px) {
     .educ-kalifoto{
-        width: 430px !important;
+        width: 400px !important;
     }
 }    
 .form-horizontal .has-feedback .form-control-feedback {
